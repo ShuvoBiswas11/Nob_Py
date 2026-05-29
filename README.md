@@ -1,2 +1,3 @@
-# Nob_Py
-I am starting to learn python. Here I will save my python codes that I will practice to learn it. 
+# Python Basics Practice
+
+This repository contains my beginner Python practice programs while learning for scripting and VLSI automation purposes.
