@@ -54,6 +54,8 @@ print(new_list)
 
 print(new_list.index(4))                #Print the index/position number of an element into a list
 
+print(new_list.count(4))                #Count an element into a list 
+
 new_list.clear()                        #Clear all the elements of a list
 print(new_list)
 
