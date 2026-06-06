@@ -38,7 +38,7 @@ print(new_list)
 new_list.insert(2, "Shuvo")             #Insert an element in a specific position [0 1 2 3 . .]
 print(new_list)
 
-new_list.remove("Shuvo")                #Remove an element from the list
+new_list.remove("Shuvo")                #Remove an element from the list (First Occurrence)
 new_list.remove("first")
 new_list.remove("second")
 print(new_list)
@@ -49,7 +49,7 @@ print(new_list)
 new_list.reverse()                      #Sorting elements into descending order
 print(new_list)
 
-new_list.pop()                          #remove the last element of the list
+new_list.pop()                          #remove the last element of the list/ pop(*) = in the place of * you can give index number to remove specific index value
 print(new_list)
 
 print(new_list.index(4))                #Print the index/position number of an element into a list
